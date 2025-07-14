@@ -4,8 +4,7 @@
 🔭 I’m currently working on **Mobile Application Development**.<br>🌱 I’m currently learning **Jetpack Compose, Kotlin Coroutines**.<br>👯 I’m looking to collaborate on Android Application Development and  **open source Android libraries**.<br>🤔 I’m looking for help with DevOps.<br>💬 Ask me about **Android, Firebase, Kotlin** & DevOps.<br>📫 How to reach me: +923064621852, [syedsabtain85@gmail.com](mailto:syedsabtain85@gmail.com)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_syed_sabtain) 
-<br>
-📄 Know about my experiences:<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-sabtain/)
+<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-sabtain/)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
